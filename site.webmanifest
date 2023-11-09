@@ -1,0 +1,12 @@
+{
+  "name": "Add to Cart",
+  "short_name": "Add to Cart",
+  "icons":
+    [
+      {""},
+      {""}
+    ],
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}
